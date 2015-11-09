@@ -1,0 +1,1 @@
+c:\users\larry pavanery\documents\visual studio 2015\Projects\UniversalWindowsApp\UniversalWindowsApp\UniversalWindowsApp.csproj;x86
